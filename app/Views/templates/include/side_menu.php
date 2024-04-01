@@ -37,6 +37,10 @@
                  </li>
 
                  <li>
+                     <a href="calendar.html" class="waves-effect"><i class="mdi mdi-clock"></i><span>
+                             Absensi </span></a>
+                 </li>
+                 <li>
                      <a href="calendar.html" class="waves-effect"><i class="mdi mdi-calendar-clock"></i><span>
                              Calendar </span></a>
                  </li>

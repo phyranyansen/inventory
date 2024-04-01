@@ -42,7 +42,7 @@
             </div> <!-- content -->
 
             <footer class="footer">
-                © <?= date('Y') ?> Inventory By Lhyant Teams.
+                © <?= date('Y') ?> Hatasin Team's
             </footer>
 
         </div>
